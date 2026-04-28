@@ -4,6 +4,7 @@
 ## Topic
 
 Investigation of embedded systems programming using C, C++ and Python in the Wokwi simulator based on LED control.
+![Laboratory Work 1 — LED Control in Wokwi](../assets/lab-01-led-control-wokwi.png)
 
 ## Course
 
