@@ -2,12 +2,11 @@
 # Network Device Monitoring Using ICMP Requests in Python
 
 ## Topic
-
 Development of a Python tool for monitoring the availability of a network device using ICMP ping requests.
 
-## Course
-
 ![Laboratory Work 2 — Python ICMP Device Monitor](../assets/lab-02-python-icmp-monitor.png)
+
+## Course
 
 **Programming. Part 2**  
 Kharkiv National University of Radio Electronics  
