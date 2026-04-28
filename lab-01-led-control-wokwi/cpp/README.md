@@ -8,6 +8,10 @@ The purpose of this part is to demonstrate GPIO control of the Raspberry Pi Pico
 
 The program controls an LED connected to GPIO pin **GP15** and makes it blink with a fixed delay.
 
+## WokWi
+
+https://wokwi.com/projects/462576057533811713 
+
 ## Circuit
 
 The same Wokwi circuit is used for all three implementations: C, C++ and MicroPython.
