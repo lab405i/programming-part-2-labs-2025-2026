@@ -21,6 +21,10 @@ During the laboratory work, students implement the same embedded system task —
 - C++;
 - Python / MicroPython.
 
+# The same Wokwi circuit is used for all three implementations: C, C++ and MicroPython.
+
+See diagram.json
+
 The work is performed in the **Wokwi online simulator** using the **Raspberry Pi Pico** microcontroller.
 
 ## Software Tools
